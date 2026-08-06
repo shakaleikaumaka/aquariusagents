@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aquariusagents.org/sitemap.xml
